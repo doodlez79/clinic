@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 44">
+  <defs>
+    <style>
+      .cls-1,.cls-2{stroke-width:2px;}.cls-1{stroke-miterlimit:10;}.cls-2{stroke-linecap:round;stroke-linejoin:round;}
+    </style>
+  </defs>
+  <title>CT</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="CT">
+        <path class="cls-1" fill="none"  stroke="strokeProps" d="M29,9.68A19.76,19.76,0,0,0,21,8,20,20,0,0,0,7.78,43H34.22A20,20,0,0,0,37.7,17"/>
+        <path class="cls-2" fill="none" stroke="strokeProps" d="M30.29,32.69a10,10,0,1,0-19-4.38,10.07,10.07,0,0,0,1,4.38"/>
+        <path class="cls-2" fill="none" stroke="strokeProps"
+              d="M26.31,42.69V38.94a1.25,1.25,0,0,1,1.25-1.25h1.73A1.26,1.26,0,0,0,30.41,37l1.7-3.41a.62.62,0,0,0-.56-.9H11.07a.63.63,0,0,0-.56.9L12.22,37a1.25,1.25,0,0,0,1.12.69h1.72a1.25,1.25,0,0,1,1.25,1.25v3.75"/>
+        <rect class="cls-2" fill="none"   stroke="strokeProps" x="29" y="1" width="20" height="16" rx="4"/>
+      </g>
+    </g>
+  </g>
+</svg>

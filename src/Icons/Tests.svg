@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1,.cls-2,.cls-3{fill:none;}.cls-2,.cls-3{stroke-width:2px;}.cls-2{stroke-linecap:round;stroke-linejoin:round;}.cls-3{stroke-miterlimit:10;}
+    </style>
+  </defs>
+  <title>Tests</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g id="Tests">
+        <rect class="cls-1"  y="1" width="64" height="64"/>
+        <path class="cls-2" stroke="strokeProps" d="M55,65V57a4,4,0,0,0-4-4H27a4,4,0,0,0-4,4v8"/>
+        <path class="cls-3" stroke="strokeProps" d="M37,37h4a2,2,0,0,1,2,2V53a0,0,0,0,1,0,0H35a0,0,0,0,1,0,0V39A2,2,0,0,1,37,37Z"/>
+        <path class="cls-3" stroke="strokeProps" d="M36.06,16.63A12.46,12.46,0,0,1,39,16.27a12.73,12.73,0,0,1,4,24.82"/>
+        <path class="cls-3" stroke="strokeProps" d="M43,48.6A20,20,0,0,0,40.42,9.07"/>
+        <path class="cls-3" stroke="strokeProps" d="M19.31,32.5A20,20,0,0,0,35,48.6m0-7.51a12.77,12.77,0,0,1-8.24-8.59"/>
+        <line class="cls-2" stroke="strokeProps" x1="11.5" y1="32.5" x2="33.5" y2="32.5"/>
+        <rect class="cls-3" stroke="strokeProps" x="30.23" y="0.79" width="8" height="22" rx="2"
+              transform="translate(10.48 -15.54) rotate(30)"/>
+        <line class="cls-3" stroke="strokeProps" x1="27.27" y1="15.86" x2="34.2" y2="19.86"/>
+        <line class="cls-3"  stroke="strokeProps" x1="34.27" y1="3.73" x2="41.2" y2="7.73"/>
+      </g>
+    </g>
+  </g>
+</svg>

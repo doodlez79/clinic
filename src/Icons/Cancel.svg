@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .a{fill:#fff;stroke:#f5f7fa;}.a,.b{stroke-width:2px;}.b,.e{fill:none;}.b{stroke:strokeProps;stroke-linecap:round;stroke-linejoin:round;}.c{fill:strokeProps;}.d{stroke:none;}
+    </style>
+  </defs>
+  <g transform="translate(12 12)">
+    <g class="a" transform="translate(-12 -12)">
+      <rect class="d" width="48" height="48" rx="24"/>
+      <rect class="e" x="1" y="1" width="46" height="46" rx="23"/>
+    </g>
+    <g transform="translate(-130 -526)">
+      <rect class="b" stroke="strokeProps" width="18" height="12" rx="2" transform="translate(133 532)"/>
+      <rect class="c" fill="strokeProps" width="18" height="3" transform="translate(133 538)"/>
+    </g>
+  </g>
+</svg>

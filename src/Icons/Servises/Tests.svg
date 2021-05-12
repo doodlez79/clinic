@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 66">
+  <defs>
+    <style>
+      .cls-1,.cls-3{fill:none;}.cls-2{fill:#000;}.cls-3{stroke:#333;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_20" data-name="Layer 20">
+      <g id="Tests">
+        <rect id="Rectangle_424" data-name="Rectangle 424" class="cls-1" y="1" width="64" height="64"/>
+        <g id="Group_364" data-name="Group 364">
+          <path id="Path_699" data-name="Path 699" class="cls-2"
+                d="M32.82,16.63a13.48,13.48,0,0,1,3-.36,12.72,12.72,0,0,1,4,24.82V48.6a20,20,0,0,0-2.6-39.53Z"/>
+          <path id="Path_700" data-name="Path 700" class="cls-2"
+                d="M31.75,41.09a12.83,12.83,0,0,1-8.33-8.59H15.89A20.12,20.12,0,0,0,31.75,48.6Z"/>
+          <path class="cls-2" d="M47.91,53H23.66a4,4,0,0,0-4,4v8H52V57A4,4,0,0,0,47.91,53Z"/>
+          <path class="cls-3" d="M47.91,53H23.66a4,4,0,0,0-4,4v8H52V57A4,4,0,0,0,47.91,53Z"/>
+          <path id="Rectangle_425" data-name="Rectangle 425" class="cls-3"
+                d="M33.77,37h4a2,2,0,0,1,2,2V53H31.75V39A2,2,0,0,1,33.77,37Z"/>
+          <g id="Group_362" data-name="Group 362">
+            <path id="Path_698" data-name="Path 698" class="cls-3"
+                  d="M32.82,16.63a13.48,13.48,0,0,1,3-.36,12.72,12.72,0,0,1,4,24.82"/>
+            <path id="Path_699-2" data-name="Path 699" class="cls-3" d="M39.83,48.6a20,20,0,0,0-2.6-39.53"/>
+            <path id="Path_700-2" data-name="Path 700" class="cls-3"
+                  d="M15.89,32.5A20.12,20.12,0,0,0,31.75,48.6m0-7.51a12.83,12.83,0,0,1-8.33-8.59"/>
+          </g>
+          <line id="Line_36" data-name="Line 36" class="cls-3" x1="8" y1="32.5" x2="30.23" y2="32.5"/>
+          <g id="Group_363" data-name="Group 363">
+            <path id="Path_767" data-name="Path 767" class="cls-3"
+                  d="M34.78,1.27l3.5,2A2,2,0,0,1,39,6V6l-9.1,15.59a2,2,0,0,1-2.75.73l-3.51-2a2,2,0,0,1-.76-2.7l0,0L32,2A2,2,0,0,1,34.78,1.27Z"/>
+            <line id="Line_37" data-name="Line 37" class="cls-3" x1="23.93" y1="15.86" x2="30.93" y2="19.86"/>
+            <line id="Line_38" data-name="Line 38" class="cls-3" x1="31.01" y1="3.73" x2="38.01" y2="7.73"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

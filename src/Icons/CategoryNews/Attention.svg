@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66 66">
+  <defs>
+    <style>
+      .cls-1{fill:#fff;}.cls-1,.cls-2{stroke:#333;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Attention">
+      <g id="Alert">
+        <path class="cls-1" d="M33,59A26,26,0,1,1,59,33,26,26,0,0,1,33,59Z"/>
+        <path class="cls-2" fill="#000" d="M33,1A32,32,0,1,0,65,33,32,32,0,0,0,33,1Zm0,58A26,26,0,1,1,59,33,26,26,0,0,1,33,59Z"/>
+        <rect class="cls-2" fill="#000" x="31" y="13" width="4" height="32" rx="2"/>
+        <circle class="cls-2" fill="#000" cx="33" cy="51" r="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

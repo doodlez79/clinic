@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1{fill:none}.cls-1{stroke:#333;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Copy">
+        <path id="file-2" class="cls-1" d="M23 16.41V28a1 1 0 01-1 1H10a1 1 0 01-1-1V12a1 1 0 011-1h7.59a1 1 0 01.7.29l4.42 4.42a1 1 0 01.29.7z"/>
+        <path id="file-2-2" data-name="file-2" class="cls-1" d="M13 8a1 1 0 011-1h7.59a1 1 0 01.7.29l4.42 4.42a1 1 0 01.29.7V24a1 1 0 01-1 1"/>
+        <path id="Tap_area" data-name="Tap area" fill="none" d="M0 0h36v36H0z"/>
+      </g>
+    </g>
+  </g>
+</svg>

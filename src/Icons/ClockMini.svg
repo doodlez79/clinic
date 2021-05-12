@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <defs>
+    <style>.a{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style>
+  </defs>
+  <g transform="translate(-2 -2)">
+    <path class="a" stroke="strokeProps" d="M12,3a9,9,0,1,1-9,9"/>
+    <path class="a" stroke="strokeProps" d="M8,12h4V7"/>
+  </g>
+</svg>

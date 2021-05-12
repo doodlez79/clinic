@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50.021" height="48" viewBox="0 0 50.021 48">
+  <g id="CT" transform="translate(1.021)">
+    <rect id="BG" width="47.993" height="48" transform="translate(0.007)" fill="none"/>
+    <path id="Контур_769" data-name="Контур 769" d="M1647.7,164H1642a3,3,0,0,1-3-3v-4.325A19.994,19.994,0,0,0,1617.781,190h8.533v-4.063a1.249,1.249,0,0,0-1.25-1.249h-1.724a1.252,1.252,0,0,1-1.118-.691l-1.7-3.4a.624.624,0,0,1,.559-.9h1.257a10,10,0,1,1,17.961,0h1.254a.633.633,0,0,1,.281.066.624.624,0,0,1,.278.838l-1.7,3.4a1.25,1.25,0,0,1-1.118.691h-1.726a1.25,1.25,0,0,0-1.249,1.25l0,4.062h7.915A19.978,19.978,0,0,0,1647.7,164Z" transform="translate(-1611 -145.998)" fill="#9dcd4b"/>
+    <path id="Path_689" data-name="Path 689" d="M1639,156.673A19.994,19.994,0,0,0,1617.781,190h26.446a19.978,19.978,0,0,0,3.469-26" transform="translate(-1611 -145.998)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_690" data-name="Path 690" d="M1643.735,183.118a10,10,0,1,0-17.961,0" transform="translate(-1614.439 -149.429)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_691" data-name="Path 691" d="M1639.466,197.917v-3.75a1.25,1.25,0,0,1,1.249-1.25h1.726a1.252,1.252,0,0,0,1.118-.691l1.7-3.4a.624.624,0,0,0-.278-.838.633.633,0,0,0-.281-.066H1624.23a.624.624,0,0,0-.559.9l1.7,3.4a1.252,1.252,0,0,0,1.118.691h1.724a1.249,1.249,0,0,1,1.25,1.249v3.751" transform="translate(-1614.151 -154.229)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Rectangle_421" data-name="Rectangle 421" d="M4,0H16a4,4,0,0,1,4,4v8a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(28.003 2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "945974748331",
+    "project_id": "clinica-city-mobile-app",
+    "storage_bucket": "clinica-city-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945974748331:android:d9761096fca89d0335c3ee",
+        "android_client_info": {
+          "package_name": "ru.clinicacity.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945974748331-ls2us3oio7v6cvbb9cnfr2mjinfitht1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc2NWMdG9vudFwmR_c81PYulbOa9YC1Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945974748331-ls2us3oio7v6cvbb9cnfr2mjinfitht1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "945974748331-tc93rhk64dgdc6d4j62obvc7vn4vr009.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.clinica-city.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

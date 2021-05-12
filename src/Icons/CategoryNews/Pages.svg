@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 66">
+  <defs>
+    <style>
+      .cls-1,.cls-4{fill:none;}.cls-2{fill:#fff;}.cls-2,.cls-3,.cls-4{stroke:#333;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Pages">
+      <g id="Pages-2" data-name="Pages">
+        <rect id="BG" class="cls-1" y="1" width="64" height="64"/>
+        <rect id="Rectangle_430" data-name="Rectangle 430" class="cls-2" x="38" y="3" width="16" height="16" rx="4"/>
+        <g id="file">
+          <path id="file-2" class="cls-2"
+                d="M56,20.24V61.45A3.49,3.49,0,0,1,52.57,65H11.43A3.5,3.5,0,0,1,8,61.45V4.56A3.5,3.5,0,0,1,11.43,1h26a3.37,3.37,0,0,1,2.4,1L55,17.75A3.64,3.64,0,0,1,56,20.24Z"/>
+        </g>
+        <rect id="Rectangle_431" data-name="Rectangle 431" class="cls-3" fill="#000" x="12" y="8" width="24" height="8" rx="2"/>
+        <rect id="Rectangle_432" data-name="Rectangle 432" class="cls-3" fill="#000" x="12" y="30" width="16" height="16" rx="2"/>
+        <line id="Line_39" data-name="Line 39" class="cls-4" x1="12" y1="54" x2="36" y2="54"/>
+        <line id="Line_40" data-name="Line 40" class="cls-4" x1="12" y1="50" x2="48" y2="50"/>
+        <line id="Line_41" data-name="Line 41" class="cls-4" x1="32" y1="30" x2="48" y2="30"/>
+        <line id="Line_42" data-name="Line 42" class="cls-4" x1="32" y1="34" x2="48" y2="34"/>
+        <line id="Line_43" data-name="Line 43" class="cls-4" x1="32" y1="38" x2="44" y2="38"/>
+        <line id="Line_44" data-name="Line 44" class="cls-4" x1="32" y1="42" x2="48" y2="42"/>
+        <line id="Line_45" data-name="Line 45" class="cls-4" x1="32" y1="46" x2="40" y2="46"/>
+      </g>
+    </g>
+  </g>
+</svg>

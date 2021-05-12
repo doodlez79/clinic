@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66 66">
+  <defs>
+    <style>
+      .cls-1{stroke:#333;}.cls-1,.cls-2{stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}.cls-2{fill:none;stroke:#fff;}
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Default_sale" data-name="Default sale">
+      <g id="Pic">
+        <g id="Tag">
+          <path id="Path_692" data-name="Path 692" class="cls-1" fill="#000" stroke="strokeProps"
+                d="M58.33,1H41.42a11.92,11.92,0,0,0-8.49,3.52L3.27,34.18a7.77,7.77,0,0,0,0,11L20.83,62.73a7.79,7.79,0,0,0,11,0L61.49,33.07A12.11,12.11,0,0,0,65,24.58V7.67A6.67,6.67,0,0,0,58.33,1ZM51,21a6,6,0,1,1,6-6A6,6,0,0,1,51,21Z"/>
+          <g id="Percent">
+            <line id="Line_32" stroke="strokeProps"  data-name="Line 32" class="cls-2" x1="27" y1="31" x2="27" y2="49"/>
+            <circle id="Ellipse_14"  stroke="strokeProps" data-name="Ellipse 14" class="cls-2" cx="20" cy="36" r="3"/>
+            <circle id="Ellipse_15"  stroke="strokeProps" data-name="Ellipse 15" class="cls-2" cx="34" cy="44" r="3"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

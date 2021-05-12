@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88">
+  <defs>
+    <style>.cls-1{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style>
+  </defs>
+  <title>USI</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g id="USI">
+        <path fill="#000" class="cls-1" stroke="strokeProps"
+              d="M64.27,44.09,43.91,23.73a12.35,12.35,0,0,0-17.46,0l-4.36,4.36a4.11,4.11,0,0,0,0,5.82l1.45,1.46a4.1,4.1,0,0,1,0,5.81L9.73,55A16.45,16.45,0,0,0,33,78.27L46.82,64.46a4.1,4.1,0,0,1,5.81,0l1.46,1.45a4.11,4.11,0,0,0,5.82,0l4.36-4.36A12.35,12.35,0,0,0,64.27,44.09Z"/>
+        <line class="cls-1" stroke="strokeProps" x1="24.27" y1="25.91" x2="62.09" y2="63.73"/>
+        <path class="cls-1" stroke="strokeProps" d="M54.09,17.46A16.44,16.44,0,0,1,70.54,33.91"/>
+        <path class="cls-1" stroke="strokeProps" d="M54.09,1A32.9,32.9,0,0,1,87,33.91"/>
+        <line class="cls-1" stroke="strokeProps" x1="1" y1="87" x2="9.73" y2="78.27"/>
+        <circle fill="#000" class="cls-1" cx="20" cy="68" r="4"/>
+      </g>
+    </g>
+  </g>
+</svg>

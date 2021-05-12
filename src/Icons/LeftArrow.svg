@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>.a,.b{fill:none;}.b{stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style>
+  </defs>
+  <rect class="a" width="32" height="32"/>
+  <path class="b" stroke="strokeProps" d="M10,19,3,12l7-7" transform="translate(9 4)"/>
+</svg>

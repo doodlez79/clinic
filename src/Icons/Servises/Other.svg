@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1{fill:none;}.cls-2{fill:#000;stroke:strokeProps;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_7" data-name="Layer 7">
+      <rect id="Rectangle_424" data-name="Rectangle 424" class="cls-1" width="64" height="64"/>
+      <path class="cls-2"
+            d="M54,26.8H37.2V10a2,2,0,0,0-2-2H28.8a2,2,0,0,0-2,2V26.8H10a2,2,0,0,0-2,2v6.4a2,2,0,0,0,2,2H26.8V54a2,2,0,0,0,2,2h6.4a2,2,0,0,0,2-2V37.2H54a2,2,0,0,0,2-2V28.8A2,2,0,0,0,54,26.8Z"/>
+    </g>
+  </g>
+</svg>

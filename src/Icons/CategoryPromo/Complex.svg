@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1{fill:none;}.cls-2{fill:#fff;}.cls-2,.cls-3{stroke:#333;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Complex">
+      <g id="Complex-2" data-name="Complex">
+        <rect class="cls-1" width="64" height="64"/>
+        <rect id="Rectangle_414" data-name="Rectangle 414" class="cls-2" x="36" y="36" width="24" height="24" rx="6"/>
+        <rect id="Rectangle_414-2" data-name="Rectangle 414" class="cls-2" x="36" y="4" width="24" height="24" rx="6"/>
+        <rect id="Rectangle_414-3" data-name="Rectangle 414" class="cls-2" x="4" y="36" width="24" height="24" rx="6"/>
+        <rect id="Rectangle_414-4" data-name="Rectangle 414" class="cls-3" fill="#000" x="4" y="4" width="24" height="24" rx="6"
+              transform="translate(-6.63 16) rotate(-45)"/>
+      </g>
+    </g>
+  </g>
+</svg>

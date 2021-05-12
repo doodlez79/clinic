@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>.a,.b{fill:none;stroke-linejoin:round;stroke-width:2px;}.a{stroke-linecap:round;}</style>
+  </defs>
+  <g transform="translate(1 1)">
+    <rect class="a" stroke="strokeProps" width="18" height="15" rx="2" transform="translate(0 3)"/>
+    <line class="a" stroke="strokeProps" y2="5" transform="translate(4)"/>
+    <line class="a"  stroke="strokeProps" y2="5" transform="translate(14)"/>
+    <line class="b" stroke="strokeProps" x2="18" transform="translate(0 8)"/>
+  </g>
+</svg>

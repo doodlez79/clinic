@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 66">
+  <defs>
+    <style>
+      .cls-1{fill:#fff;}.cls-1,.cls-2,.cls-3{stroke:#333;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}.cls-2{fill:#9dcd4b;}.cls-3{fill:none;}
+    </style>
+  </defs>
+  <title>News</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_3" data-name="Layer 3">
+      <g id="News">
+        <rect class="cls-1" x="31" y="3" width="16" height="16" rx="4"/>
+        <g id="file">
+          <path id="file-2" class="cls-1"
+                d="M49,20.23V61.45A3.5,3.5,0,0,1,45.57,65H4.43A3.5,3.5,0,0,1,1,61.45V4.55A3.5,3.5,0,0,1,4.43,1h26a3.37,3.37,0,0,1,2.4,1L48,17.75A3.63,3.63,0,0,1,49,20.23Z"/>
+        </g>
+        <rect fill="#000"  stroke="#333" x="5" y="8" width="24" height="8" rx="2"/>
+        <rect fill="#000" stroke="#333"  x="5" y="30" width="16" height="16" rx="2"/>
+        <line class="cls-3" x1="5" y1="54" x2="29" y2="54"/>
+        <line class="cls-3" x1="5" y1="50" x2="41" y2="50"/>
+        <line class="cls-3" x1="25" y1="30" x2="41" y2="30"/>
+        <line class="cls-3" x1="25" y1="34" x2="41" y2="34"/>
+        <line class="cls-3" x1="25" y1="38" x2="37" y2="38"/>
+        <line class="cls-3" x1="25" y1="42" x2="41" y2="42"/>
+        <line class="cls-3" x1="25" y1="46" x2="33" y2="46"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.296" height="46" viewBox="0 0 34.296 46">
+  <defs>
+    <style>.a,.b{stroke-linecap:round;stroke-width:2px;}.b{stroke-linejoin:round;}</style>
+  </defs>
+  <g transform="translate(1.148 1)">
+    <path class="a" fill="#000" stroke="strokeProps"
+          d="M109.745,7.534A15.957,15.957,0,0,0,96.326,0c-.238,0-.478,0-.716,0A15.957,15.957,0,0,0,82.19,7.534a14.6,14.6,0,0,0-.211,15.136l11.54,19.971.016.026a2.888,2.888,0,0,0,4.866,0l.016-.026,11.54-19.971a14.6,14.6,0,0,0-.211-15.136Z"
+          transform="translate(-79.968 0)"/>
+    <path class="b" stroke="strokeProps"
+          d="M14.586,1.429C10.889-2.035,8,1.889,8,1.889s-2.888-3.924-6.586-.46c-3.423,3.207.157,7.335,2.452,9.486A20.162,20.162,0,0,0,8,14a20.159,20.159,0,0,0,4.134-3.085C14.43,8.764,18.009,4.635,14.586,1.429Z"
+          transform="translate(14.901 4) rotate(45)"/>
+  </g>
+</svg>

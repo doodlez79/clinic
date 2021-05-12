@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50.014" height="48" viewBox="0 0 50.014 48">
+  <g id="MRI" transform="translate(1.007)">
+    <rect id="Bg" width="47.999" height="48" transform="translate(0.001)" fill="none"/>
+    <path id="Контур_768" data-name="Контур 768" d="M1531.007,153.791a24,24,0,1,0-33.873,33.874h10.24v-.375h0v-4.5a1.5,1.5,0,0,0-1.5-1.5H1503.8a1.5,1.5,0,0,1-1.342-.829l-2.042-4.086a.749.749,0,0,1,.671-1.085h1.509a12,12,0,1,1,21.555,0h1.508a.749.749,0,0,1,.671,1.085l-2.042,4.086a1.5,1.5,0,0,1-1.342.829h-2.073a1.5,1.5,0,0,0-1.5,1.5v4.5h0v.375h9.49A24,24,0,0,0,1531.007,153.791Z" transform="translate(-1489 -143.664)" fill="#1dbab8"/>
+    <path id="Path_686" data-name="Path 686" d="M1497.135,187.664h31.731a24,24,0,1,0-31.731,0Z" transform="translate(-1489 -143.664)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_687" data-name="Path 687" d="M1528.278,179.407a12,12,0,1,0-21.555,0" transform="translate(-1493.125 -147.782)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_688" data-name="Path 688" d="M1523.155,197.167v-4.5a1.5,1.5,0,0,1,1.5-1.5h2.073a1.5,1.5,0,0,0,1.342-.829l2.042-4.086a.749.749,0,0,0-.671-1.085h-24.572a.749.749,0,0,0-.671,1.085l2.042,4.086a1.5,1.5,0,0,0,1.342.829h2.073a1.5,1.5,0,0,1,1.5,1.5v4.5" transform="translate(-1492.779 -153.542)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

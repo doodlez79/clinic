@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g transform="translate(1 1)">
+    <path class="a" fill="none" stroke="strokeProps" stroke-width="2px"
+          d="M185.657,552l-6.829-6.828a4,4,0,0,0-5.656,0L166.343,552A8,8,0,0,0,164,557.657V564a4,4,0,0,0,4,4h3a2,2,0,0,0,2-2v-9a1,1,0,0,1,1-1h4a1,1,0,0,1,1,1v9a2,2,0,0,0,2,2h3a4,4,0,0,0,4-4v-6.343A8,8,0,0,0,185.657,552Z"
+          transform="translate(-164 -544)"/>
+  </g>
+</svg>

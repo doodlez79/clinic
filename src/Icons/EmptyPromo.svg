@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-3,.cls-4{fill:none;stroke:#999;stroke-linecap:round;stroke-width:2px}.cls-3{stroke-linejoin:round}
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_3" data-name="Layer 3">
+      <path id="Bg" fill="#fff" fill-opacity="0" d="M0 0h48v48H0z"/>
+      <path id="Path_653" data-name="Path 653" d="M41.42 2H29.79A8.17 8.17 0 0024 4.42L3.56 24.81a5.35 5.35 0 000 7.55l12.08 12.08a5.35 5.35 0 007.55 0l20.39-20.39A8.3 8.3 0 0046 18.21V6.58A4.58 4.58 0 0041.42 2zm-5.5 14.67a4.59 4.59 0 114.58-4.59 4.58 4.58 0 01-4.58 4.59z" fill="#f9f9f9"/>
+      <path id="Path_657" data-name="Path 657" class="cls-3" d="M19.42 46a5.34 5.34 0 01-3.78-1.56L3.56 32.36a5.35 5.35 0 010-7.55L24 4.42A8.17 8.17 0 0129.79 2h11.63A4.58 4.58 0 0146 6.58v11.63a8.3 8.3 0 01-2.42 5.84L23.19 44.44A5.38 5.38 0 0119.42 46z"/>
+      <path id="Path_658" data-name="Path 658" class="cls-3" d="M35.92 16.67a4.59 4.59 0 114.58-4.59 4.58 4.58 0 01-4.58 4.59z"/>
+      <g id="Error">
+        <path id="Line_18" data-name="Line 18" class="cls-4" d="M34 42h12"/>
+      </g>
+      <g id="Error-2" data-name="Error">
+        <path id="Line_18-2" data-name="Line 18" class="cls-4" d="M40 36h6"/>
+      </g>
+    </g>
+  </g>
+</svg>

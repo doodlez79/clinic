@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>.a{fill:none;}.a,.b{stroke-width:2px;}.b{fill:none;stroke-linecap:round;}.c{fill:#f25657;}
+    </style>
+  </defs>
+  <g transform="translate(1 1)">
+    <circle class="a"  stroke="strokeProps" cx="9" cy="9" r="9"/>
+    <line class="b"  stroke="strokeProps" y2="6" transform="translate(9 4)"/>
+    <circle class="c" stroke="strokeProps"  cx="1" cy="1" r="1" transform="translate(8 12)"/>
+  </g>
+</svg>
